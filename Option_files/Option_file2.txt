@@ -1,0 +1,116 @@
+a) Pressing an arrow key
+b) Pressing the Tab key
+c) Pressing the Esc key
+d) Clicking on the formula bar
+a) Pressing Ctrl + C
+b) Selecting Edit>Cut from the menu
+c) Clicking the Cut button on the standard
+d) Pressing Ctrl+X
+a) Pressing enter
+b) Pressing any arrow key on the keyboard
+c) Clicking the Enter button on the Formula bar
+d) Pressing spacebar
+a) Pressing the Tab key
+b) Clicking the cell
+c) Pressing an arrow key
+d) All of the above
+a) Replace cell references
+b) Return ASCII values of characters
+c) Concatenate and manipulate text
+d) Show formula error value
+a) Save workbook
+b) Modifiy the worksheet
+c) Enter text and data
+d) Copy the worksheet
+a) Select Edit > Select > Column from the menu
+b) Click the column heading letter
+c) Hold down the shift key as you click anywhere in the column.
+d) Hold down the Ctrl key as you click anywhere in the column
+a) Server
+b) Destination
+c) Client
+d) Both b and c
+a) Shows the location of the previously active cell
+b) Appears to the left of the formula bar
+c) Appears below the status bar
+d) Appears below the menu bar
+a) Smart tip
+b) Cell tip
+c) Web tip
+d) Soft tip
+a) Solver
+b) Goal seek
+c) Scenario Manager
+d) All of above
+a) Split a worksheet into two panes
+b) View different rows and columns edit the contents of a cell
+c) Edit the contents of a cell
+d) view different worksheets
+a) standard formulas
+b) array formula
+c) complex formulas
+d) smart formula
+a) Text
+b) Drawing objects
+c) Pictures
+d) All of above
+a) The Alt key
+b) The Tab key
+c) The Enter key
+d) None of the above
+a) The autosum button
+b) The Formula button
+c) The quicktotal button
+d) The total button
+a) The edit formula button
+b) The cancel button
+c) The enter button
+d) All of the above
+a) The entire worksheet
+b) Rows
+c) Columns
+d) All of the above
+a) Title bar
+b) Menu bar
+c) Formula bar
+d) Standard toolbar
+a) Use the excel menu bar and toolbars inside the word application
+b) Edit the hyperlink
+c) Edit the data in a excel source application
+d) Use the word menu bar and toolbars
+a) Values but not cell references
+b) C ell references but not values
+c) Values or cell references although not both at the same time
+d) Value and cell references
+a) Vertical scroll bar
+b) Horizontal scroll bar
+c) Formula bar
+d) Status bar
+a) VisiCalc
+b) Lotus 1-2-3
+c) Excel
+d) StarCalc
+a) With the copy, paste and cut commands on the edit menu
+b) With commands on the shortcut menu
+c) With buttons on the standard toolbars
+d) All of the above
+a) With the right drag method
+b) With a hyperlink
+c) With the copy and paste special commands
+d) With the copy and paste buttons on the standard toolbar.
+a) Word
+b) Smart cell
+c) Excel
+d) Lotus 1-2-3
+a) Workbooks
+b) Worksheets
+c) Charts
+d) Worksheets and charts
+a) Xls
+b) Xlw
+c) Wk1
+d) 123
+a) Format cells containing numbers
+b) Create and edit formulas containing functions
+c) Enter assumptions data
+d) Copy a range of cells

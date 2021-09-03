@@ -1,0 +1,104 @@
+a) Storage
+b) Virtual
+c) Friend
+d) Wrapper
+a) float
+b) string
+c) int
+d) wchar_t
+a) int ~Country()
+b) void Country()
+c) int ~Country(Country obj)
+d) void ~Country()
+a) Statically typed language
+b) Dynamically typed language
+c) Both Statically and dynamically typed language
+d) Type-less language
+a) abstract
+b) Virtual
+c) Dynamic
+d) Typeid
+a) They begin with a hash symbol
+b) They are processed by a preprocessor
+c) They form an integral part of the code
+d) They have to end with a semi colon
+a) the logical operator && cannot be used in a test condition
+b) the while loop is an exit-condition loop
+c) the test condition is always false
+d) the test condition is always true
+a) the return 0; statement
+b) the first statement after the loop
+c) the statement following the continue statement
+d) the next iteration of the loop
+a) the question mark should be an equal sign
+b) the first semicolon should be a colon
+c) there are too many variables in the statement
+d) the conditional operator is only used with apstrings
+a) the increment should always be ++k
+b) the variable must always be the letter i when using a for loop
+c) there should be a semicolon at the end of the statement
+d) the commas should be semicolons
+a) Type definitions (typedefs)
+b) Class definitions
+c) Function definitions
+d) Template definitions
+a) std::bad_creat
+b) std::bad_alloc
+c) std::bad_cast
+d) std::bad_typeid
+a) Simple Template Library
+b) Standard Template Library
+c) Static Type Library
+d) Single Type-based Library
+a) Explicit
+b) Public
+c) Implicit
+d) Private
+a) enumeration
+b) iteration
+c) culmination
+d) pass through
+a) ‘has-a’ relationship
+b) ‘is-a’ relationship
+c) association relationship
+d) none of the above
+a) Access method
+b) Auxiliary storage management
+c) Free integrity mechanism
+d) None of the above
+a) It is memory area created by operating system
+b) It is an area into which data records are written
+c) It is the main area of a web page
+d) None of the above
+a) Simultaneous read operations can be overlapped
+b) Search time is reduced
+c) Both a & b
+d) None of the above
+a) ptr++
+b) *ptr
+c) ++*ptr
+d) None of the above
+a) It is taken care of by the compiler
+b) It is setting the compiler option conditionally
+c) It is compiling a program based on a condition
+d) none of above
+a) System programming language
+b) General purpose language
+c) Data processing language
+d) None of above
+a) Repositioning
+b) Truncating
+c) Appending
+d) None of above
+a) Key sequenced structure, entry sequenced structure
+b) Key sequence structure, exit sequenced structure
+c) Entry sequence structure, exit sequenced structure
+d) None of above
+a) for
+b) while
+c) do-while
+d) no looping process checks the test condition at the end
+a) Private
+b) Public
+c) Protected
+d) Needs to be assigned

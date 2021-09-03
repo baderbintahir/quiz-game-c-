@@ -1,0 +1,108 @@
+a) Outline
+b) Slides
+c) Notes
+d) All of above are available
+a) Titles
+b) Lists
+c) Charts
+d) Animations
+a) note outlines for teachers
+b) project presentations by students
+c) communication of planning
+d) All of above
+a) Task Pane
+b) Task Bar
+c) Control Panel
+d) None of above
+a) Control Toolbox
+b) Slides
+c) Revisions
+d) Reviewing
+a) Getting Started
+b) Clip Art
+c) Word Art
+d) Search Results
+a) Slide Design
+b) Master Slide
+c) Slide Layout
+d) Slide Transition
+a) Blank Presentation
+b) From Existing Presentation
+c) From Design Template
+d) All of above
+a) Slide Transition
+b) Slide Design
+c) Animation Objects
+d) Animation Scheme
+a) Slide Transition
+b) Slide Design
+c) Animation Objects
+d) Animation Scheme
+a) to current slide only
+b) to all the slides
+c) to all the new presentation you create
+d) all of above
+a) Insert Menu
+b) Format Menu
+c) Tools Menu
+d) Slide Show Menu
+a) Insert Menu
+b) Format Menu
+c) Tools Menu
+d) Slide Show Menu
+a) 3
+b) 4
+c) 5
+d) 6
+a) Ctrl+N
+b) Ctrl+M
+c) Ctrl+S
+d) All of above
+a) A new slide is inserted as first slide in presentation
+b) A new slide is inserted as second slide in presentation
+c) A new slide is inserted as third slide in presentation
+d) None of above
+a) Right click on the Slide panel and choose New Slide
+b) From Insert menu choose New Slide
+c) Click on New Slide button on toolbar
+d) All of above
+a) Design Template
+b) Color Scheme
+c) Animation Scheme
+d) Slide Layout
+a) File
+b) Edit
+c) Insert
+d) View
+a) From Insert menu choose Slides from Files
+b) From Insert menu choose Slides from Presentation
+c) From Insert menu choose Slides
+d) None of above
+a) Clipart, Pictures, Shapes
+b) Clipart, From File, Shapes
+c) Clipart, From Files, AutoShapes
+d) Clipart, Pictures, AutoShapes
+a) Sound clips can be inserted but not movie clips
+b) Movie clips can be inserted but not sound clips
+c) Both cannot be inserted
+d) Both can be inserted
+a) Choose Insert >> Hyperlink
+b) Press Ctrl + K
+c) Hyperlinks can't be inserted in slides
+d) both a & b
+a) Underline
+b) Shadow
+c) Emboss
+d) Strikethrough
+a) The original file that was inserted is not changed
+b) The original file that was inserted is changed
+c) The original file is changed when you save presentation
+d) None of above
+a) You can insert pictures and clipart
+b) You can insert clipart only
+c) you can insert pictures only
+d) None of above
+a) Slide Animation
+b) Custom Animation
+c) Custom Transition
+d) Slide Transition

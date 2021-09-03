@@ -1,0 +1,29 @@
+Q8 How many different positions can you set for drop cap?
+Q8 How many ways you can save a document?
+Q8 What is the maximum number of lines you can set for lines to drop box?
+Q8 Single spacing in MS-WORD document causes ____ point line spacing?
+Q8 What is the default number of lines to drop for drop cap
+Q8 What is the maximum number of lines you can set for a drop cap?
+Q8 How many columns can you insert in a word document in maximum?
+Q8 In a document what is the maximum number of columns that can be inserted in MS Word Table?
+Q8 What is the maximum scale percentage available in Scale drop down box?
+Q8 What is the maximum font size you can apply for any character
+Q8 Word, by default, places a tab stop at every _____ mark on the ruler.
+Q8 What is the default file extension for all Word documents?
+Q8 The file type _____ indicates the file is a Word document.
+Q8 With Word’s AutoCorrect entries, to display an indifferent face ( ?? ) type _____.
+Q8 How much space in minimum must be provided between columns?
+Q8 What is the smallest width of a column?
+Q8 By default, your document prints with:
+Q8 Word is preset to use standard 8.5-by-11-inch paper with _____ margins.
+Q8 What is the default left margin in Word 2003 document?
+Q8 What is the smallest and largest font size available in Font Size tool on formatting toolbar?
+Q8 What is the default font size of a new Word document based on Normal template in Word 2003?
+Q8 The minimum number of rows and columns in MS Word document is
+Q8 How will MS Word will respond in repeated word.
+Q8 In mail merge operation which of the following might represent the main document?
+Q8 Pressing F8 key for three times selects
+Q8 What do you call ‘a collection of character and paragraph formatting commands’?
+Q8 What is a Document Outline View?
+Q8 Ctrl + Z
+Q8 The _____ in the Resume Wizard dialog box indicates the wizard is ready to create the document.

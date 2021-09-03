@@ -1,0 +1,27 @@
+Q9 What does Ctrl + = key effect?
+Q9 The word wrap reature
+Q9 How can you make the selected character superscripted
+Q9 When typing in a word field manually, what must you press to insert the code’s braces?
+Q9 What is the short cut key to open the Open dialog box?
+Q9 What is the shortcut key to split a table?
+Q9 Which key is used to increase left indent?
+Q9 How many different documents you can open at one time?
+Q9 Which feature is used to replace straight quotes with smart quotes as you type?
+Q9 Which of the following command is not available in Tools menu?
+Q9 Which option is not available in Insert Table Autofit behavior?
+Q9 When you click on File menu in Word 2010, it opens
+Q9 Tabs stop position cannot be the following alignment
+Q9 Why the document you created at home displays with a different font at school?
+Q9 Ctrl + B
+Q9 A master document contains_________, each of which contains a pointer to a file on a disk?
+Q9 If the number of columns is selected 1 and the line between check box is marked, where is the line drawn?
+Q9 A feature of MS Word that saves the document automatically after certain interval is available on
+Q9 After typing header text, how can you quickly enter footer text?
+Q9 To move the cursor page to page of document
+Q9 You can jump to the next column by
+Q9 Which of the following enables you to paste data multiple times?
+Q9 How can you increase the font size of selected text by one point every time?
+Q9 How to use Format Painter multiple times
+Q9 What is the default font used in MS Word 2007 document?
+Q9 Word includes a series of predefined graphics called _____ that can be inserted into a Word document.
+Q9 A (n) _____is a dot or other symbol positioned at the beginning of a paragraph.

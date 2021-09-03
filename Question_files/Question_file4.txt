@@ -1,0 +1,20 @@
+Q4 Which of the following formulas will Excel Not be able to calculate?
+Q4 A typical worksheet has …. Number of columns
+Q4 How many characters can be typed in a single cell in Excel?
+Q4 A worksheet can have a maximum of …. Number of rows
+Q4 Which of the following is not an example of a value?
+Q4 The chart wizard term data series refers to
+Q4 The Chart wizard term data categories refers to
+Q4 A worksheet range is a
+Q4 Getting data from a cell located in a different sheet is called …
+Q4 Tab scrolling button
+Q4 A numeric value can be treated as a label value if it precedes with
+Q4 Concatenation of text can be done using
+Q4 Data can be arranged in a worksheet in a easy to understand manner using
+Q4 Excel uniquely identifies cells within a worksheet with a cell name
+Q4 If Logx (1/8)= - 3/2,then x is equal to 
+Q4 20 % of 2 is equal to 
+Q4 If Log 4(x) = 12, then log 2(x/4) is equal to 
+Q4 If f(x) is an odd function, then |f(x)| is 
+Q4 The period of |sin(3x)| is 
+Q4 The period of 2sinxcosx is 

@@ -1,0 +1,27 @@
+Q5 Which tab is not available on left panel when you open a presentation?
+Q5 Which of the following section does not exist in a slide layout?
+Q5 PowerPoint presentations are widely used as
+Q5 _______ controls all the main slide control tasks for your presentation.
+Q5 Which of the following cannot be toggled from View >> Toolbars?
+Q5 Which of the following pane is not available in Task Pane?
+Q5 Which of the following pane is NOT available in Task Pane?
+Q5 A new presentation can be created from
+Q5 What PowerPoint feature will you use to apply motion effects to different objects of a slide?
+Q5 What feature will you use to apply motion effects in between a slide exits and another enters?
+Q5 The selected design template can be applied
+Q5 In which menu can you find features like Slide Design, Slide Layout etc.?
+Q5 Which menu provides you options like Animation Scheme, custom Animation, Slide Transition?
+Q5 How many steps are there between Start and Finish in AutoContent Wizard?
+Q5 Which short cut key inserts a new slide in current presentation?
+Q5 What happens if you select first and second slide and then click on New Slide button on toolbar?
+Q5 Which of the following method can insert a new slide in current presentation?
+Q5 Which of the following is not a part of Slide Design
+Q5 From which menu you can access Picture, Test Box, Chart etc?
+Q5 If you want to insert some slides from other presentation into current one choose
+Q5 What are the three options available in Insert >> Picture menu?
+Q5 In a PowerPoint presentation
+Q5 to insert a hyperlink in a slide
+Q5 Which of the following font effect is not available in PowerPoint Font dialog box?
+Q5 What happens if you edited an image inserted in PowerPoint
+Q5 If you select Insert >> Picture >> From File
+Q5 The effect applied to display when slides changes in slide show view is

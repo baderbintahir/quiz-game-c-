@@ -1,0 +1,108 @@
+a) Hit F5 key
+b) From Slide Show menu choose View Show option
+c) From Slide Show menu choose Rehearse timing
+d) both a & b
+a) .jpg
+b) .gif
+c) .wav
+d) All of the above
+a) .wav files and .mid files
+b) .wav files and .gif files
+c) .wav files and .jpg files
+d) .jpg files and .gif files
+a) A table slide
+b) A bullet slide
+c) A title slide
+d) All of the above
+a) A type of animation entrance effect
+b) A method of advancing slides
+c) A method of moving items on a slide
+d) All of the above
+a) Triple click the chart object
+b) Click and drag the chart object
+c) Double click the chart object
+d) Click the chart object
+a) click the application minimize button
+b) click the document close button
+c) double click the applications control menu icon
+d) double click the document control menu icon
+a) click the play button
+b) click the show effect button
+c) double click the motion path
+d) all of above
+a) Clicking the new button on the standard toolbar
+b) Clicking file, new
+c) Clicking file open
+d) Pressing ctrl + N
+a) Tab
+b) Ctrl + K
+c) Ctrl + h
+d) All of above
+a) effects
+b) custom animations
+c) transitions
+d) present animations
+a) Highlighting
+b) Dragging
+c) Selecting
+d) Moving
+a) Common tasks toolbar
+b) Drawing toolbar
+c) Formatting toolbar
+d) Standard toolbar
+a) Create a template
+b) Edit the slide master
+c) Use the autocorrect wizard
+d) All of the above
+a) Add effect
+b) Emphasis
+c) Animate now
+d) All of the above
+a) Group
+b) Flip
+c) Rotate
+d) All of the above
+a) table slide
+b) graph slide
+c) bullet slide
+d) title slide
+a) Slide show
+b) Insert
+c) Slide maser
+d) Zoom
+a) Create effect
+b) Insert motion path
+c) Draw custom path
+d) All of the above
+a) File, add a new slide
+b) Insert, New slide
+c) File Open
+d) File, New
+a) Vertical
+b) Landscape
+c) Portrait
+d) None of above
+a) Use random slide transitions
+b) Launch an online broadcast
+c) Loop continuously
+d) All of the above
+a) Slide formatting
+b) Layout of audience handout notes
+c) Handout content formatting for Microsoft word export
+d) All of above
+a) Text tool box
+b) Line tool
+c) Drawing tool
+d) Auto shapes tool
+a) Modify the slide design
+b) Modify the notes master layout
+c) Modify the text within the body placeholder
+d) All of the above
+a) Handout master
+b) Notes master
+c) Slide master
+d) All of the above
+a) Placeholders
+b) Object holders
+c) Auto layouts
+d) Text holders

@@ -1,0 +1,64 @@
+a) Next slide button
+b) Page up
+c) Ctrl + Home
+d) Ctrl + End
+a) Create a new slide master
+b) Re-apply the footer placeholder
+c) Re-apply the slide layout
+d) All of the above
+a) Slide show menu
+b) Rehearse timings button
+c) Slide transition button
+d) All of the above
+a) Alt + Click each slide
+b) Shift + drag each slide
+c) Shift + Click each slide
+d) Ctrl + Click each slide
+a) Slide show
+b) Slide sorter view
+c) Notes page view
+d) Outline view
+a) animation
+b) slide transition
+c) custom animation
+d) preset animation
+a) Slide comments
+b) Slide transitions
+c) Speaker note font and color
+d) All of above
+a) Outline
+b) Speaker notes
+c) Audience handouts
+d) All of the above
+a) Transitions command
+b) Speaker notes command
+c) Meeting reminder command
+d) Navigation commands
+a) Design plates
+b) Templates
+c) Placeholders
+d) Blueprints
+a) The title master
+b) The slide master
+c) The handout master
+d) All of above
+a) Esc key
+b) The spacebar
+c) The Enter key
+d) The mouse button
+a) Emphasis effects that can be applied to animations
+b) Types of custom motion paths
+c) Predefined entrance and exit effects
+d) All of the above
+a) View, slide sorter
+b) View, slide
+c) View, slide show
+d) View outline
+a) view, slide sorter
+b) view, slide
+c) view, master
+d) view, slide show
+a) Microsoft online
+b) Word clipart
+c) PowerPoint tools and ins
+d) All of the above

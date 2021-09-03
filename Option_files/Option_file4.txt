@@ -1,0 +1,80 @@
+a) =SUM(Sales)-A3
+b) =SUM(A1:A5)*.5
+c) =SUM(A1:A5)/(10-10)
+d) =SUM(A1:A5)-10
+a) 128
+b) 256
+c) 512
+d) 1024
+a) 256
+b) 1024
+c) 32000
+d) 65535
+a) 256
+b) 1024
+c) 32000
+d) 65535
+a) 350
+b) May 10, 2001
+c) 0.57
+d) Serial Number 50771
+a) A chart legend
+b) A collection of chart data markers
+c) A set of values you plot in a chart
+d) A data label
+a) A chart plot area
+b) A horizontal axis
+c) The organization of individual values with a chart’s data series
+d) The data range that supply chart data
+a) A command used for data modeling
+b) A range of values such as from 23 to 234
+c) A group of cells
+d) A group of worksheets
+a) Accessing
+b) Referencing
+c) Updating
+d) Functioning
+a) Allow you to view a different worksheet
+b) Allow you to view additional worksheet rows down
+c) Allow you to view additional worksheet columns to the right
+d) Allow you to view additional sheets tabs
+a) Apostrophe (&lsquo
+b) Exclamation (!)
+c) Hash (#)
+d) Ampersand (&
+a) Apostrophe (&lsquo
+b) Exclamation (!)
+c) Hash (#)
+d) Ampersand (&
+a) auto formatting
+b) applying styles
+c) changing fonts
+d) all of above
+a) Cell names
+b) Column numbers and row letters
+c) Column letters and row numbers
+d) Cell locator coordinates
+a) -4 		
+b) 4 		
+c) 1/4 	
+d) 10
+a) 20 		
+b) 4 		
+c) 0.4 		
+d) 0.04
+a) 11 		
+b) 48 		
+c) -12 		
+d) 22
+a) an odd function 	
+b) an even function 	
+c) neither odd nor even 	
+d) even and odd
+a) 2pi 	
+b) 2pi/3 	
+c) pi/3 	
+d) 3pi
+a) 4pi2	
+b) 2pi 	
+c) 4pi 	
+d) pi

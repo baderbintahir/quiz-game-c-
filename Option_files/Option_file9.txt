@@ -1,0 +1,108 @@
+a) Superscript
+b) Subscript
+c) All Caps
+d) Shadow
+a) Automatically move text to the next line when necessary
+b) Appears at the bottom of the document
+c) Allows you to type over text
+d) is the short horizontal line
+a) Ctrl + =
+b) Ctrl + Shift + =
+c) Alt + Ctrl + Shift + =
+d) None of above
+a) Ctrl + F6
+b) Ctrl + F9
+c) Alt + F11
+d) Shift + F12
+a) F12
+b) Shift F12
+c) Alt + F12
+d) Ctrl + F12
+a) Ctrl + Alt + Enter
+b) Ctrl + Shift + Enter
+c) Alt + Shift + Enter
+d) Alt + Space + Enter
+a) Ctrl+I
+b) Ctrl+M
+c) Alt+I
+d) F10
+a) No more than three
+b) Only one
+c) As many as your computer memory will hold
+d) As many as your taskbar can display
+a) Auto Correct as you type
+b) Auto Change as you type
+c) Auto Format as you type
+d) Smart Tags as you type
+a) Auto text
+b) Autocorrect
+c) Auto summarize
+d) Macro
+a) Fixed Column Width
+b) AutoFit to Contents
+c) Autofit to Window
+d) Autofit to Column
+a) File menu
+b) File Commands
+c) Backstage View
+d) File Ribbon
+a) Decimal Alignment
+b) Center Alignment
+c) Bar Alignment
+d) Justify Alignment
+a) Because you have a different printer at school than at home
+b) Because you have a different monitor at school than at home
+c) Because the font you used at home is not installed on your school computer
+d) Because the version of Windows is different
+a) Search the selected text
+b) Paste the selected text
+c) Bold the selected text
+d) Open the specified file
+a) Placeholders
+b) subdocuments
+c) bookmarks
+d) references
+a) in the left margin
+b) in the right margin
+c) both in left and right margin
+d) None of Above
+a) Save tab on Options dialog box
+b) Save As dialog box
+c) Both of above
+d) None of above
+a) Press PageDown key and type the text for footer
+b) Click on Switch between Heeder & Footer then type the text
+c) Both of above
+d) None of above
+a) Ctrl+PgDn
+b) Ctrl+PgUp
+c) Both of above
+d) None of above
+a) Clicking with your mouse on the next column
+b) Press Alt + Down-arrow
+c) Both of above
+d) None of Above
+a) Windows Clipboard
+b) Office Clipboard
+c) Both Windows & Office Clipboard
+d) None of the all
+a) By pressing Ctrl + ]
+b) By pressing Ctrl + [
+c) By pressing Ctrl + }
+d) By pressing Ctrl + {
+a) By Click on Lock Format Painter Icon
+b) By Double Click on the Format Painter Icon
+c) By Selecting Edit -> Format Painter -> Multiple Use
+d) Format Painter cannot be use multiple times
+a) Times New Roman
+b) Arial
+c) Calibri
+d) Preeti
+a) clip art
+b) hyperlinks
+c) captions
+d) bookmarks
+a) bullet
+b) logo
+c) cell
+d) target

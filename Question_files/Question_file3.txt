@@ -1,0 +1,29 @@
+Q3 A circular reference is
+Q3 Which of following is Not one of Excel’s what-if function?
+Q3 When you insert an excel file into a word document. The data are
+Q3 Which of the following is not information you can specify using the solver?
+Q3 Excel probably considers the cell entry January 1, 2000 to be a
+Q3 You can enter which types of data into worksheet cells?
+Q3 All worksheet formula
+Q3 The Paste Special command lets you copy and paste:
+Q3 Which of the following is not a valid data type in excel
+Q3 Which of the following options is not located in the Page Setup dialog box?
+Q3 Which of the following methods can not be used to edit the contents of a cell?
+Q3 You can edit a cell by
+Q3 Which elements of worksheet can be protected from accidental modification
+Q3 You can use the drag and drop method to
+Q3 It is acceptable to let long text flow into adjacent cells on a worksheet when
+Q3 Documentation should include
+Q3 Files created with Lotus 1-2-3 have an extension
+Q3 To delete an embedded objects, first
+Q3 Comments can be added to cells using
+Q3 Which of the following is not a worksheet design criterion?
+Q3 To copy cell contents using drag and drop press the
+Q3 Which of the following is the latest version of Excel
+Q3 When you copy a formula
+Q3 The Autosum feature
+Q3 Which menu option can be sued to split windows into two
+Q3 Which of the following is an absolute cell reference?
+Q3 What symbol is used before a number to make it a label?
+Q3 Which symbol must all formula begin with?
+Q3 Which of the following formulas is not entered correctly?

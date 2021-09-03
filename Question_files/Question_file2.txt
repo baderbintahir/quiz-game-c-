@@ -1,0 +1,29 @@
+Q2 Which of the following methods cannot be used to enter data in a cell
+Q2 Which of the following will not cut information?
+Q2 Which of the following is not a way to complete a cell entry?
+Q2 You can activate a cell by
+Q2 Text formulas:
+Q2 Which of the following is not a basic step in creating a worksheet?
+Q2 How do you select an entire column?
+Q2 When integrating word and excel, word is usually the
+Q2 The name box
+Q2 Comments put in cells are called
+Q2 Which is used to perform what if analysis?
+Q2 You can use the horizontal and vertical scroll bars to
+Q2 Multiple calculations can be made in a single formula using
+Q2 Hyperlinks can be
+Q2 To activate the previous cell in a pre-selected range, press
+Q2 Which button do you click to add up a series of numbers?
+Q2 When the formula bar is active, you can see
+Q2 In a worksheet you can select
+Q2 Which area in an excel window allows entering values and formulas
+Q2 To edit in an embedded excel worksheet object in a word document
+Q2 To create a formula, you can use:
+Q2 Status indicators are located on the
+Q2 Which of the following is the oldest spreadsheet package?
+Q2 You can copy data or formulas
+Q2 You cannot link excel worksheet data to a word document
+Q2 Which of the following is a popular DOS based spreadsheet package?
+Q2 An excel workbook is a collection of
+Q2 Excel files have a default extension of
+Q2 You can use the formula palette to

@@ -1,0 +1,116 @@
+a) Geometric modeling tool
+b) A cell that points to a drawing object
+c) A formula that either directly or indirectly depends on itself
+d) Always erroneous
+a) Goal seek
+b) Solver
+c) Scenario manager
+d) Auto Outline
+a) Hyperlinked placed in a word table
+b) Linked
+c) Embedded
+d) Use the word menu bar and toolbars
+a) Input cells
+b) Constraints
+c) Target cell
+d) Changing cells
+a) Label
+b) Value
+c) Formula
+d) Text string
+a) Labels, values, and formulas
+b) Labe3ls and values but not formulas
+c) Values and formulas but not labels
+d) Formulas only
+a) Manipulate values
+b) Manipulate labels
+c) Return a formula result
+d) Use the addition operator
+a) Multiply the selection by a copied value
+b) Cell comments
+c) Formatting options
+d) The resulting values of a formula instead of the actual formula
+a) Number
+b) Character
+c) Label
+d) Date/time
+a) Page Break Preview.
+b) Page Orientation
+c) Margins
+d) Headers and Footers
+a) Press the Alt key
+b) Clicking the formula bar
+c) Pressing the F2 key
+d) Double clicking the cell
+a) Clicking the formula button
+b) Double clicking the cell to edit it in-place
+c) Selecting Edit>Edit Cell from the menu
+d) None of above
+a) Contents
+b) Objects
+c) Scenarios
+d) All of above
+a) Copy cell contents
+b) Move cell contents
+c) Add cell contents
+d) a and b
+a) Data will be entered in the adjacent cells
+b) No data will be entered in the adjacent cells
+c) There is no suitable abbreviation of the text
+d) There is not time to format the next
+a) Destination and users of the output data
+b) Source of input data
+c) Information on the purpose of the workbook
+d) All of the above
+a) DOC
+b) XLS
+c) 123
+d) WK1
+a) Double click the object
+b) Select the object by clicking it
+c) Press the Shift + Delete keys
+d) Select it and then press the delete key
+a) Edit > Comments
+b) Insert > Comments
+c) File > Comments
+d) View > Comments
+a) Efficiency
+b) Aditibility
+c) Description
+d) Clarity
+a) End key
+b) Shift key
+c) Ctrl key
+d) Esc key
+a) Excel 2000
+b) Excel 2002
+c) Excel ME
+d) Excel XP
+a) Excel erases the original copy of the formula
+b) Excel edits cell references in the newly copied formula
+c) Excel adjusts absolute cell references
+d) Excel doesn’t adjust relative cell references
+a) extends a sequential series of data
+b) automatically adds range of cell values
+c) applies a boarder around the selected cells
+d) none of the above
+a) Format > window
+b) View > window > split
+c) Window > split
+d) View > split
+a) !A!1
+b) $A$1
+c) #a#1
+d) A1
+a) ” (quote)
+b) = (equal)
+c) _ (underscore)
+d) ‘ (apostrophe)
+a) =
+b) +
+c) (
+d) @
+a) =10+50
+b) =B7*B1
+c) =B7+14
+d) 10+50

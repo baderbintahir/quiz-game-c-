@@ -1,0 +1,92 @@
+a) Left
+b) Right
+c) Center
+d) Top
+a) Align Right
+b) Select All
+c) Change font
+d) Save document
+a) Columns
+b) Font color
+c) Change Style
+d) Font
+a) Exit Application
+b) Select All
+c) Clear All
+d) Align Center
+a) Press Ctrl+S
+b) Click File, Save
+c) Click Tools, Options, Save
+d) Click File, Save As
+a) Choosing File menu then Exit submenu
+b) Press Alt+F4
+c) Click X button on title bar
+d) From File menu choose Close submenu
+a) Chart
+b) Word Art
+c) Clip Art
+d) Graph
+a) New
+b) Quit
+c) Close
+d) Exit
+a) Save Document
+b) Print Document
+c) Close Document
+d) Open Document
+a) Bullets & numbering
+b) Tables
+c) Columns
+d) Tab stops
+a) full street address
+b) logo
+c) complete legal name of the company, group, or individual
+d) None of the above
+a) Normal
+b) Loosely
+c) Condensed
+d) Expanded
+a) Subdocuments
+b) Bookmarks
+c) Cross-references
+d) Outlines
+a) Alt+Ctrl+C
+b) Alt + C
+c) Ctrl + C
+d) Ctrl + Shift + C
+a) Ctrl + F
+b) Alt + Ctrl + F
+c) Ctrl + D
+d) Ctrl + Shift + D
+a) Ctrl + C
+b) Ctrl + E
+c) Ctrl + F
+d) None of above
+a) F7
+b) Shift + F7
+c) Ctrl + F7
+d) Alt + F7
+a) F9
+b) Alt + F9
+c) Ctrl + F9
+d) Shift + F9
+a) Ctrl + F
+b) Ctrl + D
+c) Ctrl + G
+d) None of the above
+a) Ctrl + F
+b) Ctrl + R
+c) Ctrl + H
+d) Ctrl + Shift + F
+a) Ctrl + H
+b) Ctrl + L
+c) Ctrl + K
+d) None of above
+a) Ctrl + S
+b) Ctrl + Shift + S
+c) Ctrl + P
+d) Ctrl + Shift + P
+a) Ctrl + =
+b) Ctrl + -
+c) Ctrl + Shift + =
+d) Ctrl + Shift + -

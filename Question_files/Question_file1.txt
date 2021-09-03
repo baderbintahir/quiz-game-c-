@@ -1,0 +1,26 @@
+Q1 Which classes allow primitive types to be accessed as objects?
+Q1 Which one of the following is not a fundamental data type in C++
+Q1 Which of the following is a valid destructor of the class name "Country"
+Q1 Which of the following correctly describes C++ language?
+Q1 Which of the following keyword supports dynamic method resolution?
+Q1 Which of the following is not true about preprocessor directives
+Q1 What's wrong? while( (i < 10) && (i > 24))
+Q1 A continue statement causes execution to skip to
+Q1 What's wrong? (x = 4 && y = 5) ? (a = 5) ; (b = 6);
+Q1 What's wrong? for (int k = 2, k <=12, k++)
+Q1 Which of the following is not recommended in a header file?
+Q1 Which of the following is not a standard exception built in C++.
+Q1 What does STL stand for?
+Q1 Which one of the following is not a valid reserved keyword in C++
+Q1  Each pass through a loop is called a/an
+Q1  Which of the following relationship is known as inheritancerelationship?
+Q1  Which of the following is not a component of file system
+Q1 ‘Prime area’ in context of file system is defined as
+Q1 Which of the following is/are advantages of cellular partitioned structure:
+Q1 *ptr++ is equivalenet to:
+Q1 The conditional compilation
+Q1  Originally ‘C’ was developed as:
+Q1 Which of the following is not a file operation:
+Q1 The two types of file structure existing in VSAM file are
+Q1 Which looping process checks the test condition at the end of the loop?
+Q1 The default access level assigned to members of a class is ___________

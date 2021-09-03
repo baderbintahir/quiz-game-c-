@@ -1,0 +1,116 @@
+a) 1
+b) 2
+c) 4
+d) 6
+a) 3
+b) 4
+c) 5
+d) 6
+a) 3
+b) 5
+c) 10
+d) 15
+a) 10
+b) 12
+c) 14
+d) 16
+a) 3
+b) 10
+c) 15
+d) 20
+a) 3
+b) 10
+c) 15
+d) 20
+a) 35
+b) 45
+c) 55
+d) 65
+a) 35
+b) 15
+c) 63
+d) 65
+a) 500
+b) 200
+c) 100
+d) 90
+a) 163
+b) 1638
+c) 16038
+d) None of above
+a) .25"
+b) .5"
+c) .75"
+d) 1"
+a) .txts
+b) .word
+c) .docs
+d) .docx
+a) .msw
+b) .wor
+c) .wrd
+d) .doc
+a) : )
+b) : (
+c) : |
+d) : /
+a) 0"
+b) 0.5"
+c) 1"
+d) 1.5"
+a) 0"
+b) 0.5"
+c) 1"
+d) 1.5"
+a) 1 inch top and bottom margins
+b) a portrait orientation
+c) 1.25 inches left and right margins
+d) all of the above
+a) 1-inch left, right, top, and bottom
+b) 1.25-inch left, right, top, and bottom
+c) 1.25-inch left and right margins and 1-inch top and bottom
+d) 1-inch left and right margins and 1.25-inch top and bottom
+a) 1"
+b) 1.25"
+c) 1.5"
+d) 2"
+a) 8 and 72
+b) 8 and 64
+c) 12 and 72
+d) None of above
+a) 10 pt
+b) 12 pt
+c) 14 pt
+d) None of above
+a) 1 and 1
+b) 2 and 1
+c) 2 and 2
+d) None of above
+a) A Red wavy line under the repeated word
+b) A Green wavy line under the repeated word
+c) A Blue wavy line under the repeated word
+d) None of the above
+a) A sales brochure
+b) A form letter
+c) A database of Names and Addresses
+d) All of above
+a) a word
+b) a sentence
+c) a paragraph
+d) entire document
+a) the defaults
+b) a template
+c) a style
+d) a boilerplate
+a) A preview in a full screen
+b) A preview with margins
+c) A View with a margins and gutter
+d) A view with a structure of heading at various levels
+a) Undo the last Action
+b) Redo the last Action
+c) Add the new page
+d) Paste the contents from clipboard
+a) Start panel
+b) Address panel
+c) Add/Sort Heading panel
+d) Finish panel
