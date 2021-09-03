@@ -1,1 +1,1 @@
-# quiz-game-c++
+# quiz-game-cpp
